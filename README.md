@@ -1,9 +1,11 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+Bytt namn på appen till LoveCorgis i strings.xml.
 
-_Du kan ta bort all text som finns sedan tidigare_.
+/*<resources>
+    <string name="app_name">LoveCorgis</string>
+</resources>*/
 
 ## Följande grundsyn gäller dugga-svar:
 
