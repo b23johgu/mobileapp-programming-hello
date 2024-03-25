@@ -3,9 +3,11 @@
 
 Bytt namn på appen till LoveCorgis i strings.xml.
 
-/*<resources>
-    <string name="app_name">LoveCorgis</string>
-</resources>*/
+```
+    <resources>
+        <string name="app_name">LoveCorgis</string>
+    </resources>
+```
 
 ## Följande grundsyn gäller dugga-svar:
 
