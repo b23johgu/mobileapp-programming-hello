@@ -9,4 +9,4 @@ Bytt namn på appen till iLoveCorgis i strings.xml.
     </resources>
 ```
 
-![Screenshots/Screenshot_20240325_124939.png](Screenshots/Screenshot_20240325_124939.png)
+![Screenshots/screenshotappname.png](Screenshots/screenshotappname.png)
