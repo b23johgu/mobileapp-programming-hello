@@ -1,11 +1,11 @@
 
 # Rapport
 
-Bytt namn på appen till LoveCorgis i strings.xml.
+Bytt namn på appen till iLoveCorgis i strings.xml.
 
 ```
     <resources>
-        <string name="app_name">LoveCorgis</string>
+        <string name="app_name">iLoveCorgis</string>
     </resources>
 ```
 
